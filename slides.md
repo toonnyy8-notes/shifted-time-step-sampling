@@ -497,33 +497,6 @@ h2 {
 ---
 
 ## Experiment
-<span class="text-2xl">Influence of Window Sizes and Cutoff values</span>
-
-<img class="w-4/5 m-auto" src="/assets/figure-7.png"/>
-
-
-<SlideCurrentNo class="absolute bottom-4 right-8" />
-
-<style>
-h2 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
-}
-.slidev-layout h2 + p {
-    margin-top: 0rem;
-    margin-bottom: 1rem;
-    opacity: 0.5;
-}
-</style>
-
----
-
-## Experiment
 <span class="text-2xl">Timestep Trajectory</span>
 
 <img class="w-4/5 m-auto" src="/assets/timestep_trajectory.png"/>
