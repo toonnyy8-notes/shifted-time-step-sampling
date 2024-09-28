@@ -383,11 +383,11 @@ h2 {
 
 <katex-elem
   class="absolute left-85 top-95 pointer-events-none"
-  expr="\large{C(\tilde x_{t-1},t-s)=e^{-\text{dis}(\tilde x_{t-1},x_{t-s})}}"></katex-elem>
+  expr="\large{C(\tilde x_{t-1},t+s)=e^{-\text{dis}(\tilde x_{t-1},x_{t+s})}}"></katex-elem>
 
 <br/>
 
-- For certain backward steps, **There are Alternate Time Steps** $t-s$
+- For certain backward steps, **There are Alternate Time Steps** $t+s$
   that display a stronger correlation with the predicted next state $x_{t-1}$ compared to time step $t-1$.
 - The zero time step, **All Nearby Time Steps Converge to the Same Distribution**. 
 
