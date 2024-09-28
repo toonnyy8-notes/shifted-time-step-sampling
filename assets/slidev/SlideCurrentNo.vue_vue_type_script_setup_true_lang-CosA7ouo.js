@@ -1,0 +1,1 @@
+import{d as n,o,b as t,x as r,B as s}from"../modules/vue-CKEyIhQq.js";import{u as a}from"./context-Dvz4uUml.js";const m=n({__name:"SlideCurrentNo",setup(p){const{$page:e}=a();return(c,_)=>(o(),t("span",null,r(s(e)),1))}});export{m as _};
